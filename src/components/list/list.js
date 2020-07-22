@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import "./list.css";
 
+//TODO: Added deleted button to each created list item
+
 class List extends Component {
 	constructor(props) {
 		super(props);
@@ -86,7 +88,6 @@ class List extends Component {
       <label for="item${i}">
       ${item.name}
 	  </label>
-	  <span>X
     </li>
     `;
 			})
