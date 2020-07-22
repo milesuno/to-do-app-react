@@ -28,9 +28,9 @@ svg {
 .wrapper {
 	padding: 20px;
 	max-width: 350px;
-	background: rgb(206 232 247 / 95%);
+	background: rgb(205 231 247 / 95%);
 	border-radius: 10%;
-	box-shadow: 0 0 0 3px rgb(0 0 0 / 78%);
+	box-shadow: 0 0 0 2px rgb(0 0 0/78%);
 }
 
 h2 {
