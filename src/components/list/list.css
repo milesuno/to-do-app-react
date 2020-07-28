@@ -39,7 +39,7 @@ svg {
 .wrapper {
 	padding: 20px;
 	max-width: 350px;
-	background: rgb(205 231 247 / 95%);
+    background: rgb(198 223 241);
 	border-radius: 10%;
 	box-shadow: 0 0 0 2px rgb(0 0 0/78%);
 }
